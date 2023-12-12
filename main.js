@@ -131,10 +131,9 @@ const sqlQuery = (response) => {
                             init();
                         });
                 })
-                
-            })
-            break;     
-    }
+            })  
+            break;
+        }
 }
 
 getAllDeptNames();
